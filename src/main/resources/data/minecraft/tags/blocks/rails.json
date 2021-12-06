@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "railsplus:cross_rail",
+    "railsplus:left_turn_rail",
+    "railsplus:right_turn_rail"
+  ]
+}

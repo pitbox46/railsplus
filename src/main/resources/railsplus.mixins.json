@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "github.pitbox46.railsplus.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "railsplus.refmap.json",
+  "mixins": [
+    "AbstractMinecartEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

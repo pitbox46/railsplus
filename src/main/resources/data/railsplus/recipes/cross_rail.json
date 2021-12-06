@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rail"
+    }
+  },
+  "result": {
+    "item": "railsplus:cross_rail",
+    "count": 5
+  }
+}
